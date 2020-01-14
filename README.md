@@ -1,7 +1,7 @@
 # XmlConvertIdmToKeepass
 
 ID ManagerからKeepass移行した際の単発プログラム
-account,password以外に移行したい項目があったので作成。主にコメント欄。
+account,password以外に移行したい項目があったので作成。主にコメント欄。
 
 ## 前提
 
